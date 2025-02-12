@@ -1,0 +1,3205 @@
+[{
+    "athlete_id": "674edff9dfec2397c9cf68db1",
+    "AthleteName": "Neeraj Chopra",
+    "MedicalTestReports": [
+      {
+        "title": "Vital Signs",
+        "result": "130/85 mm Hg",
+        "threshold": "120/80 mm Hg",
+        "status": "Abnormal"
+      },
+      {
+        "title": "Blood Test (Hemoglobin)",
+        "result": "14.5 g/dL",
+        "threshold": "Men: 13.8–17.2 g/dL",
+        "status": "Normal"
+      },
+      {
+        "title": "Urine Test (Protein)",
+        "result": "Negative",
+        "threshold": "<20 mg/dL",
+        "status": "Normal"
+      },
+      {
+        "title": "Cardiovascular Health (ECG)",
+        "result": "Normal",
+        "threshold": "Sinus rhythm",
+        "status": "Normal"
+      },
+      {
+        "title": "Respiratory Function (FEV1)",
+        "result": "75% of predicted",
+        "threshold": ">80% of predicted value",
+        "status": "Abnormal"
+      },
+      {
+        "title": "Musculoskeletal Assessments",
+        "result": "Normal strength",
+        "threshold": "Balanced and proportionate",
+        "status": "Normal"
+      },
+      {
+        "title": "Nutritional Deficiencies (Iron)",
+        "result": "150 µg/dL",
+        "threshold": "Men: 80–180 µg/dL",
+        "status": "Normal"
+      },
+      {
+        "title": "Hormonal Profiling (Testosterone)",
+        "result": "700 ng/dL",
+        "threshold": "Men: 300–1,000 ng/dL",
+        "status": "Normal"
+      },
+      {
+        "title": "Body Composition (BMI)",
+        "result": "24.5",
+        "threshold": "18.5–24.9 (Normal)",
+        "status": "Normal"
+      },
+      {
+        "title": "Hydration Status (Sodium)",
+        "result": "145 mmol/L",
+        "threshold": "135–145 mmol/L",
+        "status": "Normal"
+      },
+      {
+        "title": "Blood Glucose (Fasting)",
+        "result": "95 mg/dL",
+        "threshold": "70–100 mg/dL",
+        "status": "Normal"
+      },
+      {
+        "title": "Lipid Profile (Total Cholesterol)",
+        "result": "205 mg/dL",
+        "threshold": "<200 mg/dL",
+        "status": "Abnormal"
+      }
+    ],
+    "BiologicalPassportRecords": {
+      "name": "Neeraj Chopra",
+      "age": 26,
+      "gender": "Male",
+      "sport": "Javelin Throw",
+      "team": "National Team",
+      "position": "Athlete",
+      "profileImage": "https://via.placeholder.com/150",
+      "contactInfo": {
+        "phone": "+91 98765 43210",
+        "email": "neerajchopra@example.com",
+        "address": "4567 Javelin Lane, Sports City, India"
+      },
+      "performanceStats": {
+        "best100mTime": "11.9s",
+        "best200mTime": "24.8s",
+        "olympics": "2021",
+        "worldRecord": "90.35m"
+      },
+      "careerAchievements": [
+        "Gold Medal, 2021 Tokyo Olympics",
+        "World Champion 2023",
+        "Asian Games Gold Medalist 2018"
+      ],
+      "bloodProfileResults": {
+        "hematocrit": 46.5,
+        "hemoglobin": 15.2,
+        "reticulocyte": 1.4,
+        "ferritin": 120
+      },
+      "urineProfileResults": {
+        "teRatio": 0.9,
+        "syntheticHormones": 0.4
+      },
+      "hormonalMarkersResults": {
+        "testosterone": 8.5,
+        "growthHormone": 6,
+        "cortisol": 18,
+        "thyroidHormones": 4.2
+      },
+      "thresholdLimits": {
+        "hematocrit": 45,
+        "hemoglobin": 15,
+        "reticulocyte": 1.5,
+        "ferritin": 100,
+        "teRatio": 1,
+        "syntheticHormones": 0.5,
+        "testosterone": 10,
+        "growthHormone": 5,
+        "cortisol": 20,
+        "thyroidHormones": 4.5
+      }
+    },
+    "TravelHistory": [
+      {
+        "Date": "2024-11-15",
+        "Destination": "Paris, France",
+        "Purpose": "Conference",
+        "Duration": "3 days",
+        "VisaDetails": "Schengen Visa (Valid: 2024-01-01 to 2024-12-31)",
+        "TicketCost": "₹41,500",
+        "AccompanyingPersons": "Assistant: Jane Smith",
+        "Weather": "Cloudy (15°C)",
+        "RiskScore": "2",
+        "Coordinates": [
+          48.8566,
+          2.3522
+        ],
+        "Flagged": true
+      },
+      {
+        "Date": "2024-08-10",
+        "Destination": "London, UK",
+        "Purpose": "World Cup Tournament",
+        "Duration": "10 days",
+        "VisaDetails": "UK Standard Visitor Visa (Valid: 2024-07-15 to 2024-09-15)",
+        "TicketCost": "₹85,000",
+        "AccompanyingPersons": "Team: Indian Cricket Squad",
+        "Weather": "Partly Cloudy (20°C)",
+        "RiskScore": "2",
+        "Coordinates": [
+          51.5074,
+          -0.1278
+        ],
+        "Flagged": false
+      },
+      {
+        "Date": "2024-06-05",
+        "Destination": "Sydney, Australia",
+        "Purpose": "Cricket Series",
+        "Duration": "7 days",
+        "VisaDetails": "Australian Tourist Visa (Valid: 2024-06-01 to 2024-12-31)",
+        "TicketCost": "₹75,000",
+        "AccompanyingPersons": "Coach: Rahul Dravid",
+        "Weather": "Mild (18°C)",
+        "RiskScore": "3",
+        "Coordinates": [
+          -33.8688,
+          151.2093
+        ],
+        "Flagged": true
+      }
+    ],
+    "FinancialTransactions": {
+      "TransactionHistory": [
+        {
+          "id": 1,
+          "type": "Payment",
+          "amount": 5000,
+          "date": "2024-10-15",
+          "recipient": "Supplier A",
+          "category": "Training",
+          "suspicious": false
+        },
+        {
+          "id": 2,
+          "type": "Transfer",
+          "amount": 10000,
+          "date": "2024-10-20",
+          "recipient": "Overseas Supplier",
+          "category": "Medical",
+          "suspicious": true
+        },
+        {
+          "id": 3,
+          "type": "Payment",
+          "amount": 7500,
+          "date": "2024-10-25",
+          "recipient": "Trainer X",
+          "category": "Sponsorship",
+          "suspicious": false
+        },
+        {
+          "id": 4,
+          "type": "Refund",
+          "amount": 4000,
+          "date": "2024-11-02",
+          "recipient": "Sponsor Z",
+          "category": "Refund",
+          "suspicious": false
+        },
+        {
+          "id": 5,
+          "type": "Transfer",
+          "amount": 25000,
+          "date": "2024-11-10",
+          "recipient": "Cryptocurrency Wallet",
+          "category": "Misc",
+          "suspicious": true
+        }
+      ],
+      "CryptocurrencyTransactions": [
+        {
+          "id": 1,
+          "amount": 5000,
+          "date": "2024-10-12",
+          "walletAddressFrom": "0xA2345...",
+          "walletAddressTo": "0xB6789...",
+          "suspicious": false
+        },
+        {
+          "id": 2,
+          "amount": 10000,
+          "date": "2024-10-18",
+          "walletAddressFrom": "0xA2345...",
+          "walletAddressTo": "0xC7890...",
+          "suspicious": true
+        },
+        {
+          "id": 3,
+          "amount": 15000,
+          "date": "2024-10-22",
+          "walletAddressFrom": "0xA2345...",
+          "walletAddressTo": "0xD8901...",
+          "suspicious": false
+        }
+      ]
+    },
+    "AccessToSocialMedia": {
+      "InstagramID": "@rohitsharma45",
+      "Followers": "29.3M",
+      "Posts": "1,200+",
+      "EngagementRate": "N/A",
+      "TwitterID": "@ImRo45",
+      "TwitterFollowers": "23.6M",
+      "TwitterPosts": "15K+",
+      "TwitterEngagementRate": "N/A",
+      "FacebookID": "RohitSharmaOfficial",
+      "FacebookFollowers": "21M",
+      "FacebookPosts": "N/A",
+      "FacebookEngagementRate": "N/A",
+      "LinkedInID": "N/A",
+      "LinkedInFollowers": "N/A",
+      "LinkedInPosts": "N/A",
+      "LinkedInEngagementRate": "N/A",
+      "YouTubeID": "N/A",
+      "YouTubeFollowers": "N/A",
+      "YouTubePosts": "N/A",
+      "YouTubeEngagementRate": "N/A"
+    },
+    "Performance": {
+      "name": "Neeraj Chopra",
+      "sportHistory": [
+        {
+          "game": "Olympics 2021",
+          "score": 87.58,
+          "date": "2021-08-07",
+          "result": "Gold Medal"
+        },
+        {
+          "game": "World Championships 2023",
+          "score": 88.13,
+          "date": "2023-07-15",
+          "result": "Gold Medal"
+        },
+        {
+          "game": "Asian Games 2018",
+          "score": 86.47,
+          "date": "2018-08-20",
+          "result": "Gold Medal"
+        },
+        {
+          "game": "Diamond League 2024",
+          "score": 89.1,
+          "date": "2024-05-05",
+          "result": "Win"
+        }
+      ],
+      "recentTrainingData": [
+        {
+          "trainingDate": "2024-01-02",
+          "hoursTrained": 6
+        },
+        {
+          "trainingDate": "2023-12-28",
+          "hoursTrained": 7
+        },
+        {
+          "trainingDate": "2023-12-15",
+          "hoursTrained": 5
+        }
+      ]
+    }
+  },{
+    "athlete_id": "674edff9dfec2397c9cf68db2",
+    "AthleteName": "Abhinav Shaw",
+    "MedicalTestReports": [
+       {
+          "title": "Vital Signs",
+          "result": "120/80 mm Hg",
+          "threshold": "120/80 mm Hg",
+          "status": "Normal"
+       },
+       {
+          "title": "Blood Test (Hemoglobin)",
+          "result": "14 g/dL",
+          "threshold": "Men: 13.8–17.2 g/dL",
+          "status": "Normal"
+       },
+       {
+          "title": "Urine Test (Protein)",
+          "result": "Negative",
+          "threshold": "<20 mg/dL",
+          "status": "Normal"
+       },
+       {
+          "title": "Cardiovascular Health (ECG)",
+          "result": "Normal",
+          "threshold": "Sinus rhythm",
+          "status": "Normal"
+       },
+       {
+          "title": "Respiratory Function (FEV1)",
+          "result": "85% of predicted",
+          "threshold": ">80% of predicted value",
+          "status": "Normal"
+       },
+       {
+          "title": "Musculoskeletal Assessments",
+          "result": "Normal strength",
+          "threshold": "Balanced and proportionate",
+          "status": "Normal"
+       },
+       {
+          "title": "Nutritional Deficiencies (Iron)",
+          "result": "100 µg/dL",
+          "threshold": "Men: 80–180 µg/dL",
+          "status": "Normal"
+       },
+       {
+          "title": "Hormonal Profiling (Testosterone)",
+          "result": "500 ng/dL",
+          "threshold": "Men: 300–1,000 ng/dL",
+          "status": "Normal"
+       },
+       {
+          "title": "Body Composition (BMI)",
+          "result": "22.5",
+          "threshold": "18.5–24.9 (Normal)",
+          "status": "Normal"
+       },
+       {
+          "title": "Hydration Status (Sodium)",
+          "result": "140 mmol/L",
+          "threshold": "135–145 mmol/L",
+          "status": "Normal"
+       },
+       {
+          "title": "Blood Glucose (Fasting)",
+          "result": "90 mg/dL",
+          "threshold": "70–100 mg/dL",
+          "status": "Normal"
+       },
+       {
+          "title": "Lipid Profile (Total Cholesterol)",
+          "result": "180 mg/dL",
+          "threshold": "<200 mg/dL",
+          "status": "Normal"
+       }
+    ],
+    "BiologicalPassportRecords": {
+       "name": "Abhinav Shaw",
+       "age": 26,
+       "gender": "Male",
+       "sport": "Shooting",
+       "team": "National Team",
+       "position": "Athlete",
+       "profileImage": "https://via.placeholder.com/150",
+       "contactInfo": {
+          "phone": "+91 98765 43210",
+          "email": "abhinavshaw@example.com",
+          "address": "4567 Shooting Range, Sports City, India"
+       },
+       "performanceStats": {
+          "best100mTime": "12.2s",
+          "best200mTime": "25.0s",
+          "olympics": "2021",
+          "worldRecord": "87.58m"
+       },
+       "careerAchievements": [
+          "Gold Medal, 2021 Tokyo Olympics",
+          "World Champion 2023",
+          "Asian Games Gold Medalist 2018"
+       ],
+       "bloodProfileResults": {
+          "hematocrit": 46,
+          "hemoglobin": 15,
+          "reticulocyte": 1.4,
+          "ferritin": 125
+       },
+       "urineProfileResults": {
+          "teRatio": 0.85,
+          "syntheticHormones": 0.3
+       },
+       "hormonalMarkersResults": {
+          "testosterone": 9,
+          "growthHormone": 5,
+          "cortisol": 19,
+          "thyroidHormones": 4.3
+       },
+       "thresholdLimits": {
+          "hematocrit": 45,
+          "hemoglobin": 15,
+          "reticulocyte": 1.5,
+          "ferritin": 100,
+          "teRatio": 1,
+          "syntheticHormones": 0.5,
+          "testosterone": 10,
+          "growthHormone": 5,
+          "cortisol": 20,
+          "thyroidHormones": 4.5
+       }
+    },
+    "TravelHistory": [
+       {
+          "Date": "2024-11-15",
+          "Destination": "Paris, France",
+          "Purpose": "Conference",
+          "Duration": "3 days",
+          "VisaDetails": "Schengen Visa (Valid: 2024-01-01 to 2024-12-31)",
+          "TicketCost": "₹41,500",
+          "AccompanyingPersons": "Assistant: Jane Smith",
+          "Weather": "Cloudy (15°C)",
+          "RiskScore": "2",
+          "Coordinates": [
+             55.7558,
+             37.6173
+          ],
+          "Flagged": true
+       },
+       {
+          "Date": "2024-08-10",
+          "Destination": "London, UK",
+          "Purpose": "World Cup Tournament",
+          "Duration": "10 days",
+          "VisaDetails": "UK Standard Visitor Visa (Valid: 2024-07-15 to 2024-09-15)",
+          "TicketCost": "₹85,000",
+          "AccompanyingPersons": "Team: Indian Cricket Squad",
+          "Weather": "Partly Cloudy (20°C)",
+          "RiskScore": "2",
+          "Coordinates": [
+             55.7558,
+             37.6173
+          ],
+          "Flagged": false
+       },
+       {
+          "Date": "2024-06-05",
+          "Destination": "Sydney, Australia",
+          "Purpose": "Cricket Series",
+          "Duration": "7 days",
+          "VisaDetails": "Australian Tourist Visa (Valid: 2024-06-01 to 2024-12-31)",
+          "TicketCost": "₹75,000",
+          "AccompanyingPersons": "Coach: Rahul Dravid",
+          "Weather": "Mild (18°C)",
+          "RiskScore": "3",
+          "Coordinates": [
+             55.7558,
+             37.6173
+          ],
+          "Flagged": true
+       }
+    ],
+    "FinancialTransactions": {
+       "TransactionHistory": [
+          {
+             "id": 1,
+             "type": "Payment",
+             "amount": 5000,
+             "date": "2024-10-15",
+             "recipient": "Supplier A",
+             "category": "Training",
+             "suspicious": false
+          },
+          {
+             "id": 2,
+             "type": "Transfer",
+             "amount": 10000,
+             "date": "2024-10-20",
+             "recipient": "Overseas Supplier",
+             "category": "Medical",
+             "suspicious": true
+          },
+          {
+             "id": 3,
+             "type": "Payment",
+             "amount": 7500,
+             "date": "2024-10-25",
+             "recipient": "Trainer X",
+             "category": "Sponsorship",
+             "suspicious": false
+          },
+          {
+             "id": 4,
+             "type": "Refund",
+             "amount": 4000,
+             "date": "2024-11-02",
+             "recipient": "Sponsor Z",
+             "category": "Refund",
+             "suspicious": false
+          },
+          {
+             "id": 5,
+             "type": "Transfer",
+             "amount": 25000,
+             "date": "2024-11-10",
+             "recipient": "Cryptocurrency Wallet",
+             "category": "Misc",
+             "suspicious": true
+          }
+       ],
+       "CryptocurrencyTransactions": [
+          {
+             "id": 1,
+             "amount": 5000,
+             "date": "2024-10-12",
+             "walletAddressFrom": "0xA2345...",
+             "walletAddressTo": "0xB6789...",
+             "suspicious": false
+          },
+          {
+             "id": 2,
+             "amount": 10000,
+             "date": "2024-10-18",
+             "walletAddressFrom": "0xA2345...",
+             "walletAddressTo": "0xC7890...",
+             "suspicious": true
+          },
+          {
+             "id": 3,
+             "amount": 15000,
+             "date": "2024-10-22",
+             "walletAddressFrom": "0xA2345...",
+             "walletAddressTo": "0xD1234...",
+             "suspicious": false
+          }
+       ]
+    },
+    "AccessToSocialMedia": {
+       "InstagramID": "@abhinavshaw45",
+       "Followers": "29.3M",
+       "Posts": "1,200+",
+       "EngagementRate": "N/A",
+       "TwitterID": "@ImAbhi45",
+       "TwitterFollowers": "23.6M",
+       "TwitterPosts": "15K+",
+       "TwitterEngagementRate": "N/A",
+       "FacebookID": "AbhinavShawOfficial",
+       "FacebookFollowers": "21M",
+       "FacebookPosts": "N/A",
+       "FacebookEngagementRate": "N/A",
+       "LinkedInID": "N/A",
+       "LinkedInFollowers": "N/A",
+       "LinkedInPosts": "N/A",
+       "LinkedInEngagementRate": "N/A",
+       "YouTubeID": "N/A",
+       "YouTubeFollowers": "N/A",
+       "YouTubePosts": "N/A",
+       "YouTubeEngagementRate": "N/A"
+    },
+    "Performance": {
+   "name": "Abhinav Shaw",
+   "sportHistory": [
+     {
+       "game": "Olympics 2020",
+       "score": 87.35,
+       "date": "2021-07-30",
+       "result": "Silver Medal"
+     },
+     {
+       "game": "World Championships 2022",
+       "score": 88.42,
+       "date": "2022-08-19",
+       "result": "Bronze Medal"
+     },
+     {
+       "game": "Asian Games 2019",
+       "score": 85.67,
+       "date": "2019-09-01",
+       "result": "Gold Medal"
+     },
+     {
+       "game": "Diamond League 2023",
+       "score": 89.45,
+       "date": "2023-06-25",
+       "result": "Win"
+     }
+   ],
+   "recentTrainingData": [
+     {
+       "trainingDate": "2024-01-10",
+       "hoursTrained": 6
+     },
+     {
+       "trainingDate": "2023-12-30",
+       "hoursTrained": 7
+     },
+     {
+       "trainingDate": "2023-12-22",
+       "hoursTrained": 6
+     }
+   ]
+}
+},{
+    "athlete_id": "674edff9dfec2397c9cf68db3",
+    "AthleteName": "Manika Batra",
+    "MedicalTestReports": [
+       {
+          "title": "Vital Signs",
+          "result": "120/80 mm Hg",
+          "threshold": "120/80 mm Hg",
+          "status": "Normal"
+       },
+       {
+          "title": "Blood Test (Hemoglobin)",
+          "result": "14 g/dL",
+          "threshold": " Women: 12.1–15.1 g/dL",
+          "status": "Normal"
+       },
+       {
+          "title": "Urine Test (Protein)",
+          "result": "Negative",
+          "threshold": "<20 mg/dL",
+          "status": "Normal"
+       },
+       {
+          "title": "Cardiovascular Health (ECG)",
+          "result": "Normal",
+          "threshold": "Sinus rhythm",
+          "status": "Normal"
+       },
+       {
+          "title": "Respiratory Function (FEV1)",
+          "result": "85% of predicted",
+          "threshold": ">80% of predicted value",
+          "status": "Normal"
+       },
+       {
+          "title": "Musculoskeletal Assessments",
+          "result": "Normal strength",
+          "threshold": "Balanced and proportionate",
+          "status": "Normal"
+       },
+       {
+          "title": "Nutritional Deficiencies (Iron)",
+          "result": "100 µg/dL",
+          "threshold": " Women: 60–160 µg/dL",
+          "status": "Normal"
+       },
+       {
+          "title": "Hormonal Profiling (Testosterone)",
+          "result": "500 ng/dL",
+          "threshold": " Women: 15–70 ng/dL",
+          "status": "Normal"
+       },
+       {
+          "title": "Body Composition (BMI)",
+          "result": "22.5",
+          "threshold": "18.5–24.9 (Normal)",
+          "status": "Normal"
+       },
+       {
+          "title": "Hydration Status (Sodium)",
+          "result": "140 mmol/L",
+          "threshold": "135–145 mmol/L",
+          "status": "Normal"
+       },
+       {
+          "title": "Blood Glucose (Fasting)",
+          "result": "90 mg/dL",
+          "threshold": "70–100 mg/dL",
+          "status": "Normal"
+       },
+       {
+          "title": "Lipid Profile (Total Cholesterol)",
+          "result": "180 mg/dL",
+          "threshold": "<200 mg/dL",
+          "status": "Normal"
+       }
+    ],
+    "BiologicalPassportRecords": {
+       "name": "Manika Batra",
+       "age": 28,
+       "gender": "Female",
+       "sport": "Table Tennis",
+       "team": "National Team",
+       "position": "Athlete",
+       "profileImage": "https://via.placeholder.com/150",
+       "contactInfo": {
+          "phone": "+91 98765 43210",
+          "email": "manikabatra@example.com",
+          "address": "4567 Table Tennis Lane, Sports City, India"
+       },
+       "performanceStats": {
+          "best100mTime": "12.2s",
+          "best200mTime": "25.0s",
+          "olympics": "2021",
+          "worldRecord": "87.58m"
+       },
+       "careerAchievements": [
+          "Gold Medal, 2021 Tokyo Olympics",
+          "World Champion 2023",
+          "Asian Games Gold Medalist 2018"
+       ],
+       "bloodProfileResults": {
+          "hematocrit": 46,
+          "hemoglobin": 15,
+          "reticulocyte": 1.4,
+          "ferritin": 125
+       },
+       "urineProfileResults": {
+          "teRatio": 0.85,
+          "syntheticHormones": 0.3
+       },
+       "hormonalMarkersResults": {
+          "testosterone": 9,
+          "growthHormone": 5,
+          "cortisol": 19,
+          "thyroidHormones": 4.3
+       },
+       "thresholdLimits": {
+          "hematocrit": 45,
+          "hemoglobin": 15,
+          "reticulocyte": 1.5,
+          "ferritin": 100,
+          "teRatio": 1,
+          "syntheticHormones": 0.5,
+          "testosterone": 10,
+          "growthHormone": 5,
+          "cortisol": 20,
+          "thyroidHormones": 4.5
+       }
+    },
+    "TravelHistory": [
+       {
+          "Date": "2024-11-15",
+          "Destination": "Paris, France",
+          "Purpose": "Conference",
+          "Duration": "3 days",
+          "VisaDetails": "Schengen Visa (Valid: 2024-01-01 to 2024-12-31)",
+          "TicketCost": "₹41,500",
+          "AccompanyingPersons": "Assistant: Jane Smith",
+          "Weather": "Cloudy (15°C)",
+          "RiskScore": "2",
+          "Coordinates": [
+             55.7558,
+             37.6173
+          ],
+          "Flagged": true
+       },
+       {
+          "Date": "2024-08-10",
+          "Destination": "London, UK",
+          "Purpose": "World Cup Tournament",
+          "Duration": "10 days",
+          "VisaDetails": "UK Standard Visitor Visa (Valid: 2024-07-15 to 2024-09-15)",
+          "TicketCost": "₹85,000",
+          "AccompanyingPersons": "Team: Indian Cricket Squad",
+          "Weather": "Partly Cloudy (20°C)",
+          "RiskScore": "2",
+          "Coordinates": [
+             55.7558,
+             37.6173
+          ],
+          "Flagged": false
+       },
+       {
+          "Date": "2024-06-05",
+          "Destination": "Sydney, Australia",
+          "Purpose": "Cricket Series",
+          "Duration": "7 days",
+          "VisaDetails": "Australian Tourist Visa (Valid: 2024-06-01 to 2024-12-31)",
+          "TicketCost": "₹75,000",
+          "AccompanyingPersons": "Coach: Rahul Dravid",
+          "Weather": "Mild (18°C)",
+          "RiskScore": "3",
+          "Coordinates": [
+             55.7558,
+             37.6173
+          ],
+          "Flagged": true
+       }
+    ],
+    "FinancialTransactions": {
+       "TransactionHistory": [
+          {
+             "id": 1,
+             "type": "Payment",
+             "amount": 5000,
+             "date": "2024-10-15",
+             "recipient": "Supplier A",
+             "category": "Training",
+             "suspicious": false
+          },
+          {
+             "id": 2,
+             "type": "Transfer",
+             "amount": 10000,
+             "date": "2024-10-20",
+             "recipient": "Overseas Supplier",
+             "category": "Medical",
+             "suspicious": true
+          },
+          {
+             "id": 3,
+             "type": "Payment",
+             "amount": 7500,
+             "date": "2024-10-25",
+             "recipient": "Trainer X",
+             "category": "Sponsorship",
+             "suspicious": false
+          },
+          {
+             "id": 4,
+             "type": "Refund",
+             "amount": 4000,
+             "date": "2024-11-02",
+             "recipient": "Sponsor Z",
+             "category": "Refund",
+             "suspicious": false
+          },
+          {
+             "id": 5,
+             "type": "Transfer",
+             "amount": 25000,
+             "date": "2024-11-10",
+             "recipient": "Cryptocurrency Wallet",
+             "category": "Misc",
+             "suspicious": true
+          }
+       ],
+       "CryptocurrencyTransactions": [
+          {
+             "id": 1,
+             "amount": 5000,
+             "date": "2024-10-12",
+             "walletAddressFrom": "0xA2345...",
+             "walletAddressTo": "0xB6789...",
+             "suspicious": false
+          },
+          {
+             "id": 2,
+             "amount": 10000,
+             "date": "2024-10-18",
+             "walletAddressFrom": "0xA2345...",
+             "walletAddressTo": "0xC7890...",
+             "suspicious": true
+          },
+          {
+             "id": 3,
+             "amount": 15000,
+             "date": "2024-10-22",
+             "walletAddressFrom": "0xA2345...",
+             "walletAddressTo": "0xD1234...",
+             "suspicious": false
+          }
+       ]
+    },
+    "AccessToSocialMedia": {
+       "InstagramID": "@manikabatra45",
+       "Followers": "29.3M",
+       "Posts": "1,200+",
+       "EngagementRate": "N/A",
+       "TwitterID": "@ImManika45",
+       "TwitterFollowers": "23.6M",
+       "TwitterPosts": "15K+",
+       "TwitterEngagementRate": "N/A",
+       "FacebookID": "ManikaBatraOfficial",
+       "FacebookFollowers": "21M",
+       "FacebookPosts": "N/A",
+       "FacebookEngagementRate": "N/A",
+       "LinkedInID": "N/A",
+       "LinkedInFollowers": "N/A",
+       "LinkedInPosts": "N/A",
+       "LinkedInEngagementRate": "N/A",
+       "YouTubeID": "N/A",
+       "YouTubeFollowers": "N/A",
+       "YouTubePosts": "N/A",
+       "YouTubeEngagementRate": "N/A"
+    },
+    "Performance": {
+  "name": "Manika Batra",
+  "sportHistory": [
+    {
+      "game": "Olympics 2020",
+      "score": "Round of 16",
+      "date": "2021-07-25",
+      "result": "Participation"
+    },
+    {
+      "game": "Commonwealth Games 2022",
+      "score": "Gold Medal",
+      "date": "2022-08-07",
+      "result": "Gold Medal"
+    },
+    {
+      "game": "Asian Table Tennis Championship 2020",
+      "score": "Silver Medal",
+      "date": "2020-09-30",
+      "result": "Silver Medal"
+    },
+    {
+      "game": "ITTF World Tour 2019",
+      "score": "Quarter Finals",
+      "date": "2019-11-15",
+      "result": "Top 8 Finish"
+    }
+  ],
+  "recentTrainingData": [
+    {
+      "trainingDate": "2024-01-05",
+      "hoursTrained": 4
+    },
+    {
+      "trainingDate": "2023-12-29",
+      "hoursTrained": 5
+    },
+    {
+      "trainingDate": "2023-12-20",
+      "hoursTrained": 6
+    }
+  ]
+}
+},{
+    "athlete_id": "674edff9dfec2397c9cf68db4",
+    "AthleteName": "PV Sindhu",
+    "MedicalTestReports": [
+      {
+        "title": "Vital Signs",
+        "result": "130/85 mm Hg",
+        "threshold": "120/80 mm Hg",
+        "status": "Abnormal"
+      },
+      {
+        "title": "Blood Test (Hemoglobin)",
+        "result": "12 g/dL",
+        "threshold": " Women: 12.1–15.1 g/dL",
+        "status": "Abnormal"
+      },
+      {
+        "title": "Urine Test (Protein)",
+        "result": "Negative",
+        "threshold": "<20 mg/dL",
+        "status": "Normal"
+      },
+      {
+        "title": "Cardiovascular Health (ECG)",
+        "result": "Normal",
+        "threshold": "Sinus rhythm",
+        "status": "Normal"
+      },
+      {
+        "title": "Respiratory Function (FEV1)",
+        "result": "78% of predicted",
+        "threshold": ">80% of predicted value",
+        "status": "Abnormal"
+      },
+      {
+        "title": "Musculoskeletal Assessments",
+        "result": "Normal strength",
+        "threshold": "Balanced and proportionate",
+        "status": "Normal"
+      },
+      {
+        "title": "Nutritional Deficiencies (Iron)",
+        "result": "50 µg/dL",
+        "threshold": " Women: 60–160 µg/dL",
+        "status": "Abnormal"
+      },
+      {
+        "title": "Hormonal Profiling (Testosterone)",
+        "result": "15 ng/dL",
+        "threshold": "Women: 15–70 ng/dL",
+        "status": "Normal"
+      },
+      {
+        "title": "Body Composition (BMI)",
+        "result": "25.1",
+        "threshold": "18.5–24.9 (Normal)",
+        "status": "Abnormal"
+      },
+      {
+        "title": "Hydration Status (Sodium)",
+        "result": "138 mmol/L",
+        "threshold": "135–145 mmol/L",
+        "status": "Normal"
+      },
+      {
+        "title": "Blood Glucose (Fasting)",
+        "result": "110 mg/dL",
+        "threshold": "70–100 mg/dL",
+        "status": "Abnormal"
+      },
+      {
+        "title": "Lipid Profile (Total Cholesterol)",
+        "result": "210 mg/dL",
+        "threshold": "<200 mg/dL",
+        "status": "Abnormal"
+      }
+    ],
+    "BiologicalPassportRecords": {
+      "name": "PV Sindhu",
+      "age": 29,
+      "gender": "Female",
+      "sport": "Badminton",
+      "team": "National Team",
+      "position": "Athlete",
+      "profileImage": "https://via.placeholder.com/150",
+      "contactInfo": {
+        "phone": "+91 98765 54321",
+        "email": "pvsindhu@example.com",
+        "address": "1234 Badminton Drive, Sports City, India"
+      },
+      "performanceStats": {
+        "best100mTime": "13.5s",
+        "best200mTime": "28.7s",
+        "olympics": "2016",
+        "worldRecord": "None"
+      },
+      "careerAchievements": [
+        "Silver Medal, 2016 Rio Olympics",
+        "Gold Medal, 2019 World Championships",
+        "Bronze Medal, 2020 Tokyo Olympics"
+      ],
+      "bloodProfileResults": {
+        "hematocrit": 44,
+        "hemoglobin": 14,
+        "reticulocyte": 1.6,
+        "ferritin": 90
+      },
+      "urineProfileResults": {
+        "teRatio": 0.9,
+        "syntheticHormones": 0.6
+      },
+      "hormonalMarkersResults": {
+        "testosterone": 18,
+        "growthHormone": 4.5,
+        "cortisol": 22,
+        "thyroidHormones": 4.8
+      },
+      "thresholdLimits": {
+        "hematocrit": 45,
+        "hemoglobin": 15,
+        "reticulocyte": 1.5,
+        "ferritin": 100,
+        "teRatio": 1,
+        "syntheticHormones": 0.5,
+        "testosterone": 10,
+        "growthHormone": 5,
+        "cortisol": 20,
+        "thyroidHormones": 4.5
+      }
+    },
+    "TravelHistory": [
+      {
+        "Date": "2024-11-10",
+        "Destination": "Tokyo, Japan",
+        "Purpose": "Training Camp",
+        "Duration": "5 days",
+        "VisaDetails": "Japanese Tourist Visa (Valid: 2024-01-01 to 2024-12-31)",
+        "TicketCost": "₹55,000",
+        "AccompanyingPersons": "Coach: Pullela Gopichand",
+        "Weather": "Sunny (22°C)",
+        "RiskScore": "2",
+        "Coordinates": [
+          35.6895,
+          139.6917
+        ],
+        "Flagged": false
+      },
+      {
+        "Date": "2024-09-15",
+        "Destination": "Dubai, UAE",
+        "Purpose": "Tournament",
+        "Duration": "7 days",
+        "VisaDetails": "UAE Tourist Visa (Valid: 2024-06-01 to 2024-12-31)",
+        "TicketCost": "₹48,000",
+        "AccompanyingPersons": "Team: Indian Badminton Squad",
+        "Weather": "Hot (35°C)",
+        "RiskScore": "3",
+        "Coordinates": [
+          25.276987,
+          55.296249
+        ],
+        "Flagged": true
+      },
+      {
+        "Date": "2024-07-05",
+        "Destination": "Bali, Indonesia",
+        "Purpose": "Championship",
+        "Duration": "10 days",
+        "VisaDetails": "Indonesian Tourist Visa (Valid: 2024-07-01 to 2024-12-31)",
+        "TicketCost": "₹70,000",
+        "AccompanyingPersons": "Assistant: John Doe",
+        "Weather": "Rainy (28°C)",
+        "RiskScore": "1",
+        "Coordinates": [
+          -8.409518,
+          115.188919
+        ],
+        "Flagged": false
+      }
+    ],
+    "FinancialTransactions": {
+      "TransactionHistory": [
+        {
+          "id": 1,
+          "type": "Payment",
+          "amount": 6000,
+          "date": "2024-10-12",
+          "recipient": "Supplier B",
+          "category": "Training",
+          "suspicious": false
+        },
+        {
+          "id": 2,
+          "type": "Transfer",
+          "amount": 12000,
+          "date": "2024-10-22",
+          "recipient": "Overseas Supplier",
+          "category": "Medical",
+          "suspicious": true
+        },
+        {
+          "id": 3,
+          "type": "Payment",
+          "amount": 8500,
+          "date": "2024-10-28",
+          "recipient": "Trainer Y",
+          "category": "Sponsorship",
+          "suspicious": false
+        },
+        {
+          "id": 4,
+          "type": "Refund",
+          "amount": 3000,
+          "date": "2024-11-05",
+          "recipient": "Sponsor W",
+          "category": "Refund",
+          "suspicious": false
+        },
+        {
+          "id": 5,
+          "type": "Transfer",
+          "amount": 30000,
+          "date": "2024-11-12",
+          "recipient": "Cryptocurrency Wallet",
+          "category": "Misc",
+          "suspicious": true
+        }
+      ],
+      "CryptocurrencyTransactions": [
+        {
+          "id": 1,
+          "amount": 7000,
+          "date": "2024-10-14",
+          "walletAddressFrom": "0xA5678...",
+          "walletAddressTo": "0xB9876...",
+          "suspicious": false
+        },
+        {
+          "id": 2,
+          "amount": 15000,
+          "date": "2024-10-20",
+          "walletAddressFrom": "0xA5678...",
+          "walletAddressTo": "0xC6543...",
+          "suspicious": true
+        },
+        {
+          "id": 3,
+          "amount": 20000,
+          "date": "2024-10-26",
+          "walletAddressFrom": "0xA5678...",
+          "walletAddressTo": "0xD4567...",
+          "suspicious": false
+        }
+      ]
+    },
+    "AccessToSocialMedia": {
+      "InstagramID": "@pvsindhu1",
+      "Followers": "9.8M",
+      "Posts": "950+",
+      "EngagementRate": "N/A",
+      "TwitterID": "@PVSindhu1",
+      "TwitterFollowers": "7.3M",
+      "TwitterPosts": "12K+",
+      "TwitterEngagementRate": "N/A",
+      "FacebookID": "PVSindhuOfficial",
+      "FacebookFollowers": "5M",
+      "FacebookPosts": "N/A",
+      "FacebookEngagementRate": "N/A",
+      "LinkedInID": "N/A",
+      "LinkedInFollowers": "N/A",
+      "LinkedInPosts": "N/A",
+      "LinkedInEngagementRate": "N/A",
+      "YouTubeID": "N/A",
+      "YouTubeFollowers": "N/A",
+      "YouTubePosts": "N/A",
+      "YouTubeEngagementRate": "N/A"
+    },
+    "Performance": {
+  "name": "PV Sindhu",
+  "sportHistory": [
+    {
+      "game": "Olympics 2016",
+      "score": "N/A",
+      "date": "2016-08-19",
+      "result": "Silver Medal"
+    },
+    {
+      "game": "Olympics 2020",
+      "score": "N/A",
+      "date": "2021-07-30",
+      "result": "Bronze Medal"
+    },
+    {
+      "game": "World Championships 2019",
+      "score": "N/A",
+      "date": "2019-08-25",
+      "result": "Gold Medal"
+    },
+    {
+      "game": "Commonwealth Games 2022",
+      "score": "N/A",
+      "date": "2022-08-02",
+      "result": "Gold Medal"
+    }
+  ],
+  "recentTrainingData": [
+    {
+      "trainingDate": "2024-01-10",
+      "hoursTrained": 4
+    },
+    {
+      "trainingDate": "2023-12-30",
+      "hoursTrained": 5
+    },
+    {
+      "trainingDate": "2023-12-20",
+      "hoursTrained": 4
+    }
+  ]
+}
+},{
+    "athlete_id": "674edff9dfec2397c9cf68db5",
+   "AthleteName": "Lakshya Sen",
+   "MedicalTestReports": [
+     {
+       "title": "Vital Signs",
+       "result": "120/80 mm Hg",
+       "threshold": "120/80 mm Hg",
+       "status": "Normal"
+     },
+     {
+       "title": "Blood Test (Hemoglobin)",
+       "result": "14 g/dL",
+       "threshold": "Men: 13.8–17.2 g/dL",
+       "status": "Normal"
+     },
+     {
+       "title": "Urine Test (Protein)",
+       "result": "Negative",
+       "threshold": "<20 mg/dL",
+       "status": "Normal"
+     },
+     {
+       "title": "Cardiovascular Health (ECG)",
+       "result": "Normal",
+       "threshold": "Sinus rhythm",
+       "status": "Normal"
+     },
+     {
+       "title": "Respiratory Function (FEV1)",
+       "result": "85% of predicted",
+       "threshold": ">80% of predicted value",
+       "status": "Normal"
+     },
+     {
+       "title": "Musculoskeletal Assessments",
+       "result": "Normal strength",
+       "threshold": "Balanced and proportionate",
+       "status": "Normal"
+     },
+     {
+       "title": "Nutritional Deficiencies (Iron)",
+       "result": "100 µg/dL",
+       "threshold": "Men: 80–180 µg/dL",
+       "status": "Normal"
+     },
+     {
+       "title": "Hormonal Profiling (Testosterone)",
+       "result": "500 ng/dL",
+       "threshold": "Men: 300–1,000 ng/dL",
+       "status": "Normal"
+     },
+     {
+       "title": "Body Composition (BMI)",
+       "result": "22.5",
+       "threshold": "18.5–24.9 (Normal)",
+       "status": "Normal"
+     },
+     {
+       "title": "Hydration Status (Sodium)",
+       "result": "140 mmol/L",
+       "threshold": "135–145 mmol/L",
+       "status": "Normal"
+     },
+     {
+       "title": "Blood Glucose (Fasting)",
+       "result": "90 mg/dL",
+       "threshold": "70–100 mg/dL",
+       "status": "Normal"
+     },
+     {
+       "title": "Lipid Profile (Total Cholesterol)",
+       "result": "180 mg/dL",
+       "threshold": "<200 mg/dL",
+       "status": "Normal"
+     }
+   ],
+   "BiologicalPassportRecords": {
+     "name": "Lakshya Sen",
+     "age": 22,
+     "gender": "Male",
+     "sport": "Badminton",
+     "team": "National Team",
+     "position": "Athlete",
+     "profileImage": "https://via.placeholder.com/150",
+     "contactInfo": {
+       "phone": "+91 98765 43210",
+       "email": "lakshyasen@example.com",
+       "address": "1234 Shuttler's Avenue, Sports City, India"
+     },
+     "performanceStats": {
+       "best100mTime": "11.9s",
+       "best200mTime": "24.5s",
+       "olympics": "2024",
+       "worldRecord": "42.0m"
+     },
+     "careerAchievements": [
+       "Gold Medal, 2024 Badminton World Championships",
+       "Asian Games Silver Medalist 2022",
+       "Commonwealth Games Gold Medalist 2022"
+     ],
+     "bloodProfileResults": {
+       "hematocrit": 46,
+       "hemoglobin": 15,
+       "reticulocyte": 1.4,
+       "ferritin": 120
+     },
+     "urineProfileResults": {
+       "teRatio": 0.9,
+       "syntheticHormones": 0.4
+     },
+     "hormonalMarkersResults": {
+       "testosterone": 9,
+       "growthHormone": 5,
+       "cortisol": 18,
+       "thyroidHormones": 4.2
+     },
+     "thresholdLimits": {
+       "hematocrit": 45,
+       "hemoglobin": 15,
+       "reticulocyte": 1.5,
+       "ferritin": 100,
+       "teRatio": 1,
+       "syntheticHormones": 0.5,
+       "testosterone": 10,
+       "growthHormone": 5,
+       "cortisol": 20,
+       "thyroidHormones": 4.5
+     }
+   },
+   "TravelHistory": [
+     {
+       "Date": "2024-11-15",
+       "Destination": "Paris, France",
+       "Purpose": "Conference",
+       "Duration": "3 days",
+       "VisaDetails": "Schengen Visa (Valid: 2024-01-01 to 2024-12-31)",
+       "TicketCost": "₹41,500",
+       "AccompanyingPersons": "Assistant: Jane Smith",
+       "Weather": "Cloudy (15°C)",
+       "RiskScore": "2",
+       "Coordinates": [
+         55.7558,
+         37.6173
+       ],
+       "Flagged": true
+     },
+     {
+       "Date": "2024-08-10",
+       "Destination": "London, UK",
+       "Purpose": "World Cup Tournament",
+       "Duration": "10 days",
+       "VisaDetails": "UK Standard Visitor Visa (Valid: 2024-07-15 to 2024-09-15)",
+       "TicketCost": "₹85,000",
+       "AccompanyingPersons": "Team: Indian Badminton Squad",
+       "Weather": "Partly Cloudy (20°C)",
+       "RiskScore": "2",
+       "Coordinates": [
+         55.7558,
+         37.6173
+       ],
+       "Flagged": false
+     },
+     {
+       "Date": "2024-06-05",
+       "Destination": "Sydney, Australia",
+       "Purpose": "Badminton Series",
+       "Duration": "7 days",
+       "VisaDetails": "Australian Tourist Visa (Valid: 2024-06-01 to 2024-12-31)",
+       "TicketCost": "₹75,000",
+       "AccompanyingPersons": "Coach: Gopi Chand",
+       "Weather": "Mild (18°C)",
+       "RiskScore": "3",
+       "Coordinates": [
+         55.7558,
+         37.6173
+       ],
+       "Flagged": true
+     }
+   ],
+   "FinancialTransactions": {
+     "TransactionHistory": [
+       {
+         "id": 1,
+         "type": "Payment",
+         "amount": 5000,
+         "date": "2024-10-15",
+         "recipient": "Supplier A",
+         "category": "Training",
+         "suspicious": false
+       },
+       {
+         "id": 2,
+         "type": "Transfer",
+         "amount": 10000,
+         "date": "2024-10-20",
+         "recipient": "Overseas Supplier",
+         "category": "Medical",
+         "suspicious": true
+       },
+       {
+         "id": 3,
+         "type": "Payment",
+         "amount": 7500,
+         "date": "2024-10-25",
+         "recipient": "Trainer X",
+         "category": "Sponsorship",
+         "suspicious": false
+       },
+       {
+         "id": 4,
+         "type": "Refund",
+         "amount": 4000,
+         "date": "2024-11-02",
+         "recipient": "Sponsor Z",
+         "category": "Refund",
+         "suspicious": false
+       },
+       {
+         "id": 5,
+         "type": "Transfer",
+         "amount": 25000,
+         "date": "2024-11-10",
+         "recipient": "Cryptocurrency Wallet",
+         "category": "Misc",
+         "suspicious": true
+       }
+     ],
+     "CryptocurrencyTransactions": [
+       {
+         "id": 1,
+         "amount": 5000,
+         "date": "2024-10-12",
+         "walletAddressFrom": "0xA2345...",
+         "walletAddressTo": "0xB6789...",
+         "suspicious": false
+       },
+       {
+         "id": 2,
+         "amount": 10000,
+         "date": "2024-10-18",
+         "walletAddressFrom": "0xA2345...",
+         "walletAddressTo": "0xC7890...",
+         "suspicious": true
+       },
+       {
+         "id": 3,
+         "amount": 15000,
+         "date": "2024-10-22",
+         "walletAddressFrom": "0xA2345...",
+         "walletAddressTo": "0xD1234...",
+         "suspicious": false
+       }
+     ]
+   },
+   "AccessToSocialMedia": {
+     "InstagramID": "@lakshyasen",
+     "Followers": "5.3M",
+     "Posts": "500+",
+     "EngagementRate": "N/A",
+     "TwitterID": "@LakshyaSen",
+     "TwitterFollowers": "3.2M",
+     "TwitterPosts": "1,200+",
+     "TwitterEngagementRate": "N/A",
+     "FacebookID": "LakshyaSenOfficial",
+     "FacebookFollowers": "2.8M",
+     "FacebookPosts": "N/A",
+     "FacebookEngagementRate": "N/A",
+     "LinkedInID": "N/A",
+     "LinkedInFollowers": "N/A",
+     "LinkedInPosts": "N/A",
+     "LinkedInEngagementRate": "N/A",
+     "YouTubeID": "N/A",
+     "YouTubeFollowers": "N/A",
+     "YouTubePosts": "N/A",
+     "YouTubeEngagementRate": "N/A"
+   },
+   "Performance": {
+  "name": "PV Sindhu",
+  "sportHistory": [
+    {
+      "game": "Olympics 2016",
+      "score": "N/A",
+      "date": "2016-08-19",
+      "result": "Silver Medal"
+    },
+    {
+      "game": "Olympics 2020",
+      "score": "N/A",
+      "date": "2021-07-30",
+      "result": "Bronze Medal"
+    },
+    {
+      "game": "World Championships 2019",
+      "score": "N/A",
+      "date": "2019-08-25",
+      "result": "Gold Medal"
+    },
+    {
+      "game": "Commonwealth Games 2022",
+      "score": "N/A",
+      "date": "2022-08-02",
+      "result": "Gold Medal"
+    }
+  ],
+  "recentTrainingData": [
+    {
+      "trainingDate": "2024-01-10",
+      "hoursTrained": 4
+    },
+    {
+      "trainingDate": "2023-12-30",
+      "hoursTrained": 5
+    },
+    {
+      "trainingDate": "2023-12-20",
+      "hoursTrained": 4
+    }
+  ]
+}
+},{
+    "athlete_id": "674edff9dfec2397c9cf68db6",
+    "AthleteName": "Jeswin Aldrin",
+    "MedicalTestReports": [
+       {
+          "title": "Vital Signs",
+          "result": "120/80 mm Hg",
+          "threshold": "120/80 mm Hg",
+          "status": "Normal"
+       },
+       {
+          "title": "Blood Test (Hemoglobin)",
+          "result": "14 g/dL",
+          "threshold": "Men: 13.8–17.2 g/dL",
+          "status": "Normal"
+       },
+       {
+          "title": "Urine Test (Protein)",
+          "result": "Negative",
+          "threshold": "<20 mg/dL",
+          "status": "Normal"
+       },
+       {
+          "title": "Cardiovascular Health (ECG)",
+          "result": "Normal",
+          "threshold": "Sinus rhythm",
+          "status": "Normal"
+       },
+       {
+          "title": "Respiratory Function (FEV1)",
+          "result": "85% of predicted",
+          "threshold": ">80% of predicted value",
+          "status": "Normal"
+       },
+       {
+          "title": "Musculoskeletal Assessments",
+          "result": "Normal strength",
+          "threshold": "Balanced and proportionate",
+          "status": "Normal"
+       },
+       {
+          "title": "Nutritional Deficiencies (Iron)",
+          "result": "100 µg/dL",
+          "threshold": "Men: 80–180 µg/dL",
+          "status": "Normal"
+       },
+       {
+          "title": "Hormonal Profiling (Testosterone)",
+          "result": "500 ng/dL",
+          "threshold": "Men: 300–1,000 ng/dL",
+          "status": "Normal"
+       },
+       {
+          "title": "Body Composition (BMI)",
+          "result": "22.5",
+          "threshold": "18.5–24.9 (Normal)",
+          "status": "Normal"
+       },
+       {
+          "title": "Hydration Status (Sodium)",
+          "result": "140 mmol/L",
+          "threshold": "135–145 mmol/L",
+          "status": "Normal"
+       },
+       {
+          "title": "Blood Glucose (Fasting)",
+          "result": "90 mg/dL",
+          "threshold": "70–100 mg/dL",
+          "status": "Normal"
+       },
+       {
+          "title": "Lipid Profile (Total Cholesterol)",
+          "result": "180 mg/dL",
+          "threshold": "<200 mg/dL",
+          "status": "Normal"
+       }
+    ],
+    "BiologicalPassportRecords": {
+       "name": "Jeswin Aldrin",
+       "age": 26,
+       "gender": "Male",
+       "sport": "Long Jump",
+       "team": "National Team",
+       "position": "Athlete",
+       "profileImage": "https://via.placeholder.com/150",
+       "contactInfo": {
+          "phone": "+91 98765 43210",
+          "email": "jeswinaldrin@example.com",
+          "address": "1234 Jump Lane, Sports City, India"
+       },
+       "performanceStats": {
+          "best100mTime": "11.0s",
+          "best200mTime": "22.5s",
+          "olympics": "2020",
+          "worldRecord": "8.61m"
+       },
+       "careerAchievements": [
+          "Gold Medal, 2022 Asian Championships",
+          "World Championships Silver Medalist 2023",
+          "Commonwealth Games Gold Medalist 2018"
+       ],
+       "bloodProfileResults": {
+          "hematocrit": 45,
+          "hemoglobin": 15,
+          "reticulocyte": 1.4,
+          "ferritin": 130
+       },
+       "urineProfileResults": {
+          "teRatio": 0.8,
+          "syntheticHormones": 0.4
+       },
+       "hormonalMarkersResults": {
+          "testosterone": 9,
+          "growthHormone": 6,
+          "cortisol": 20,
+          "thyroidHormones": 4.5
+       },
+       "thresholdLimits": {
+          "hematocrit": 45,
+          "hemoglobin": 15,
+          "reticulocyte": 1.5,
+          "ferritin": 100,
+          "teRatio": 1,
+          "syntheticHormones": 0.5,
+          "testosterone": 10,
+          "growthHormone": 5,
+          "cortisol": 20,
+          "thyroidHormones": 4.5
+       }
+    },
+    "TravelHistory": [
+       {
+          "Date": "2024-11-15",
+          "Destination": "Paris, France",
+          "Purpose": "Conference",
+          "Duration": "3 days",
+          "VisaDetails": "Schengen Visa (Valid: 2024-01-01 to 2024-12-31)",
+          "TicketCost": "₹41,500",
+          "AccompanyingPersons": "Assistant: Jane Smith",
+          "Weather": "Cloudy (15°C)",
+          "RiskScore": "2",
+          "Coordinates": [
+             55.7558,
+             37.6173
+          ],
+          "Flagged": true
+       },
+       {
+          "Date": "2024-08-10",
+          "Destination": "London, UK",
+          "Purpose": "World Cup Tournament",
+          "Duration": "10 days",
+          "VisaDetails": "UK Standard Visitor Visa (Valid: 2024-07-15 to 2024-09-15)",
+          "TicketCost": "₹85,000",
+          "AccompanyingPersons": "Team: Indian Athletics Squad",
+          "Weather": "Partly Cloudy (20°C)",
+          "RiskScore": "2",
+          "Coordinates": [
+             51.5074,
+             0.1278
+          ],
+          "Flagged": false
+       },
+       {
+          "Date": "2024-06-05",
+          "Destination": "Sydney, Australia",
+          "Purpose": "Training Camp",
+          "Duration": "7 days",
+          "VisaDetails": "Australian Tourist Visa (Valid: 2024-06-01 to 2024-12-31)",
+          "TicketCost": "₹75,000",
+          "AccompanyingPersons": "Coach: Ramesh Patel",
+          "Weather": "Mild (18°C)",
+          "RiskScore": "3",
+          "Coordinates": [
+             -33.8688,
+             151.2093
+          ],
+          "Flagged": true
+       }
+    ],
+    "FinancialTransactions": {
+       "TransactionHistory": [
+          {
+             "id": 1,
+             "type": "Payment",
+             "amount": 5000,
+             "date": "2024-10-15",
+             "recipient": "Supplier A",
+             "category": "Training",
+             "suspicious": false
+          },
+          {
+             "id": 2,
+             "type": "Transfer",
+             "amount": 10000,
+             "date": "2024-10-20",
+             "recipient": "Overseas Supplier",
+             "category": "Medical",
+             "suspicious": true
+          },
+          {
+             "id": 3,
+             "type": "Payment",
+             "amount": 7500,
+             "date": "2024-10-25",
+             "recipient": "Trainer X",
+             "category": "Sponsorship",
+             "suspicious": false
+          },
+          {
+             "id": 4,
+             "type": "Refund",
+             "amount": 4000,
+             "date": "2024-11-02",
+             "recipient": "Sponsor Z",
+             "category": "Refund",
+             "suspicious": false
+          },
+          {
+             "id": 5,
+             "type": "Transfer",
+             "amount": 25000,
+             "date": "2024-11-10",
+             "recipient": "Cryptocurrency Wallet",
+             "category": "Misc",
+             "suspicious": true
+          }
+       ],
+       "CryptocurrencyTransactions": [
+          {
+             "id": 1,
+             "amount": 5000,
+             "date": "2024-10-12",
+             "walletAddressFrom": "0xA2345...",
+             "walletAddressTo": "0xB6789...",
+             "suspicious": false
+          },
+          {
+             "id": 2,
+             "amount": 10000,
+             "date": "2024-10-18",
+             "walletAddressFrom": "0xA2345...",
+             "walletAddressTo": "0xC7890...",
+             "suspicious": true
+          },
+          {
+             "id": 3,
+             "amount": 15000,
+             "date": "2024-10-22",
+             "walletAddressFrom": "0xA2345...",
+             "walletAddressTo": "0xD1234...",
+             "suspicious": false
+          }
+       ]
+    },
+    "AccessToSocialMedia": {
+       "InstagramID": "@jeswinaldrin",
+       "Followers": "5.3M",
+       "Posts": "250+",
+       "EngagementRate": "N/A",
+       "TwitterID": "@JeswinAldrin",
+       "TwitterFollowers": "3.6M",
+       "TwitterPosts": "2K+",
+       "TwitterEngagementRate": "N/A",
+       "FacebookID": "JeswinAldrinOfficial",
+       "FacebookFollowers": "2.1M",
+       "FacebookPosts": "N/A",
+       "FacebookEngagementRate": "N/A",
+       "LinkedInID": "N/A",
+       "LinkedInFollowers": "N/A",
+       "LinkedInPosts": "N/A",
+       "LinkedInEngagementRate": "N/A",
+       "YouTubeID": "N/A",
+       "YouTubeFollowers": "N/A",
+       "YouTubePosts": "N/A",
+       "YouTubeEngagementRate": "N/A"
+    },
+    "Performance": {
+   "name": "Jeswin Aldrin",
+   "sportHistory": [
+     {
+       "game": "World Athletics Championships 2023",
+       "score": 8.42,
+       "date": "2023-08-23",
+       "result": "Bronze Medal"
+     },
+     {
+       "game": "Asian Games 2022",
+       "score": 8.20,
+       "date": "2022-10-03",
+       "result": "Gold Medal"
+     },
+     {
+       "game": "Indian National Championships 2022",
+       "score": 8.35,
+       "date": "2022-06-25",
+       "result": "Gold Medal"
+     },
+     {
+       "game": "Diamond League 2024",
+       "score": 8.50,
+       "date": "2024-06-10",
+       "result": "Win"
+     }
+   ],
+   "recentTrainingData": [
+     {
+       "trainingDate": "2024-01-05",
+       "hoursTrained": 6
+     },
+     {
+       "trainingDate": "2023-12-30",
+       "hoursTrained": 7
+     },
+     {
+       "trainingDate": "2023-12-20",
+       "hoursTrained": 5
+     }
+   ]
+ }
+},
+    {
+    "athlete_id": "674edff9dfec2397c9cf68db7",
+    "AthleteName": "D Gukesh",
+    "MedicalTestReports": [
+      {
+        "title": "Vital Signs",
+        "result": "120/80 mm Hg",
+        "threshold": "120/80 mm Hg",
+        "status": "Normal"
+      },
+      {
+        "title": "Blood Test (Hemoglobin)",
+        "result": "14 g/dL",
+        "threshold": "Men: 13.8–17.2 g/dL",
+        "status": "Normal"
+      },
+      {
+        "title": "Urine Test (Protein)",
+        "result": "Negative",
+        "threshold": "<20 mg/dL",
+        "status": "Normal"
+      },
+      {
+        "title": "Cardiovascular Health (ECG)",
+        "result": "Normal",
+        "threshold": "Sinus rhythm",
+        "status": "Normal"
+      },
+      {
+        "title": "Respiratory Function (FEV1)",
+        "result": "82% of predicted",
+        "threshold": ">80% of predicted value",
+        "status": "Normal"
+      },
+      {
+        "title": "Musculoskeletal Assessments",
+        "result": "Normal strength",
+        "threshold": "Balanced and proportionate",
+        "status": "Normal"
+      },
+      {
+        "title": "Nutritional Deficiencies (Iron)",
+        "result": "120 µg/dL",
+        "threshold": "Men: 80–180 µg/dL",
+        "status": "Normal"
+      },
+      {
+        "title": "Hormonal Profiling (Testosterone)",
+        "result": "400 ng/dL",
+        "threshold": "Men: 300–1,000 ng/dL",
+        "status": "Normal"
+      },
+      {
+        "title": "Body Composition (BMI)",
+        "result": "22.3",
+        "threshold": "18.5–24.9 (Normal)",
+        "status": "Normal"
+      },
+      {
+        "title": "Hydration Status (Sodium)",
+        "result": "140 mmol/L",
+        "threshold": "135–145 mmol/L",
+        "status": "Normal"
+      },
+      {
+        "title": "Blood Glucose (Fasting)",
+        "result": "95 mg/dL",
+        "threshold": "70–100 mg/dL",
+        "status": "Normal"
+      },
+      {
+        "title": "Lipid Profile (Total Cholesterol)",
+        "result": "185 mg/dL",
+        "threshold": "<200 mg/dL",
+        "status": "Normal"
+      }
+    ],
+    "BiologicalPassportRecords": {
+      "name": "D Gukesh",
+      "age": 18,
+      "gender": "Male",
+      "sport": "Chess",
+      "team": "Indian National Chess Team",
+      "position": "Player",
+      "profileImage": "https://via.placeholder.com/150",
+      "contactInfo": {
+        "phone": "+91 98765 54322",
+        "email": "dgukesh@example.com",
+        "address": "5678 Chess Avenue, Sports City, India"
+      },
+      "performanceStats": {
+        "best100mTime": "N/A",
+        "best200mTime": "N/A",
+        "olympics": "N/A",
+        "worldRecord": "None"
+      },
+      "careerAchievements": [
+        "Gold Medal, 2022 Chess Olympiad",
+        "Youngest Indian to achieve 2700+ Elo rating",
+        "Bronze Medal, 2023 World Rapid Chess Championship"
+      ],
+      "bloodProfileResults": {
+        "hematocrit": 46,
+        "hemoglobin": 15,
+        "reticulocyte": 1.4,
+        "ferritin": 85
+      },
+      "urineProfileResults": {
+        "teRatio": 0.8,
+        "syntheticHormones": 0.4
+      },
+      "hormonalMarkersResults": {
+        "testosterone": 420,
+        "growthHormone": 4.3,
+        "cortisol": 19,
+        "thyroidHormones": 4.2
+      },
+      "thresholdLimits": {
+        "hematocrit": 45,
+        "hemoglobin": 15,
+        "reticulocyte": 1.5,
+        "ferritin": 100,
+        "teRatio": 1,
+        "syntheticHormones": 0.5,
+        "testosterone": 10,
+        "growthHormone": 5,
+        "cortisol": 20,
+        "thyroidHormones": 4.5
+      }
+    },
+    "TravelHistory": [
+      {
+        "Date": "2024-10-01",
+        "Destination": "Madrid, Spain",
+        "Purpose": "Chess Championship",
+        "Duration": "12 days",
+        "VisaDetails": "Schengen Tourist Visa (Valid: 2024-01-01 to 2024-12-31)",
+        "TicketCost": "₹90,000",
+        "AccompanyingPersons": "Coach: Vishwanathan Anand",
+        "Weather": "Sunny (25°C)",
+        "RiskScore": "1",
+        "Coordinates": [
+          40.4168,
+          -3.7038
+        ],
+        "Flagged": false
+      },
+      {
+        "Date": "2024-09-05",
+        "Destination": "Dubai, UAE",
+        "Purpose": "Tournament",
+        "Duration": "7 days",
+        "VisaDetails": "UAE Tourist Visa (Valid: 2024-06-01 to 2024-12-31)",
+        "TicketCost": "₹50,000",
+        "AccompanyingPersons": "Team: Indian Chess Squad",
+        "Weather": "Hot (38°C)",
+        "RiskScore": "2",
+        "Coordinates": [
+          25.276987,
+          55.296249
+        ],
+        "Flagged": false
+      },
+      {
+        "Date": "2024-07-20",
+        "Destination": "Berlin, Germany",
+        "Purpose": "Chess Masters",
+        "Duration": "10 days",
+        "VisaDetails": "Schengen Tourist Visa (Valid: 2024-01-01 to 2024-12-31)",
+        "TicketCost": "₹85,000",
+        "AccompanyingPersons": "Assistant: John Doe",
+        "Weather": "Rainy (20°C)",
+        "RiskScore": "1",
+        "Coordinates": [
+          52.5200,
+          13.4050
+        ],
+        "Flagged": false
+      }
+    ],
+    "FinancialTransactions": {
+      "TransactionHistory": [
+        {
+          "id": 1,
+          "type": "Payment",
+          "amount": 8000,
+          "date": "2024-09-12",
+          "recipient": "Supplier C",
+          "category": "Training",
+          "suspicious": false
+        },
+        {
+          "id": 2,
+          "type": "Transfer",
+          "amount": 15000,
+          "date": "2024-10-05",
+          "recipient": "International Chess Federation",
+          "category": "Tournament Fees",
+          "suspicious": false
+        },
+        {
+          "id": 3,
+          "type": "Payment",
+          "amount": 9000,
+          "date": "2024-10-20",
+          "recipient": "Trainer X",
+          "category": "Training",
+          "suspicious": false
+        },
+        {
+          "id": 4,
+          "type": "Refund",
+          "amount": 5000,
+          "date": "2024-11-01",
+          "recipient": "Sponsor Y",
+          "category": "Refund",
+          "suspicious": false
+        },
+        {
+          "id": 5,
+          "type": "Transfer",
+          "amount": 20000,
+          "date": "2024-11-15",
+          "recipient": "Cryptocurrency Wallet",
+          "category": "Misc",
+          "suspicious": true
+        }
+      ],
+      "CryptocurrencyTransactions": [
+        {
+          "id": 1,
+          "amount": 5000,
+          "date": "2024-09-20",
+          "walletAddressFrom": "0xA1234...",
+          "walletAddressTo": "0xB5678...",
+          "suspicious": false
+        },
+        {
+          "id": 2,
+          "amount": 20000,
+          "date": "2024-10-15",
+          "walletAddressFrom": "0xA1234...",
+          "walletAddressTo": "0xC9876...",
+          "suspicious": true
+        },
+        {
+          "id": 3,
+          "amount": 12000,
+          "date": "2024-10-25",
+          "walletAddressFrom": "0xA1234...",
+          "walletAddressTo": "0xD2345...",
+          "suspicious": false
+        }
+      ]
+    },
+    "AccessToSocialMedia": {
+      "InstagramID": "@dgukesh",
+      "Followers": "120K",
+      "Posts": "150+",
+      "EngagementRate": "N/A",
+      "TwitterID": "@DGukeshChess",
+      "TwitterFollowers": "95K",
+      "TwitterPosts": "500+",
+      "TwitterEngagementRate": "N/A",
+      "FacebookID": "DGukeshOfficial",
+      "FacebookFollowers": "50K",
+      "FacebookPosts": "N/A",
+      "FacebookEngagementRate": "N/A",
+      "LinkedInID": "N/A",
+      "LinkedInFollowers": "N/A",
+      "LinkedInPosts": "N/A",
+      "LinkedInEngagementRate": "N/A",
+      "YouTubeID": "N/A",
+      "YouTubeFollowers": "N/A",
+      "YouTubePosts": "N/A",
+      "YouTubeEngagementRate": "N/A"
+    },
+    "Performance": {
+  "name": "D Gukesh",
+  "sportHistory": [
+    {
+      "game": "Chess Olympiad 2022",
+      "score": "N/A",
+      "date": "2022-08-12",
+      "result": "Gold Medal"
+    },
+    {
+      "game": "World Rapid Chess Championship 2023",
+      "score": "N/A",
+      "date": "2023-12-20",
+      "result": "Bronze Medal"
+    },
+    {
+      "game": "Asian Individual Chess Championship 2024",
+      "score": "N/A",
+      "date": "2024-05-15",
+      "result": "Silver Medal"
+    },
+    {
+      "game": "World Junior Chess Championship 2021",
+      "score": "N/A",
+      "date": "2021-10-28",
+      "result": "Gold Medal"
+    }
+  ],
+  "recentTrainingData": [
+    {
+      "trainingDate": "2024-01-05",
+      "hoursTrained": 6
+    },
+    {
+      "trainingDate": "2023-12-28",
+      "hoursTrained": 5
+    },
+    {
+      "trainingDate": "2023-12-18",
+      "hoursTrained": 6
+    }
+  ]
+}
+},{
+    "athlete_id": "674edff9dfec2397c9cf68db28",
+    "AthleteName": "Sabita Toppo",
+    "MedicalTestReports": [
+        {
+            "title": "Vital Signs",
+            "result": "118/76 mm Hg",
+            "threshold": "120/80 mm Hg",
+            "status": "Normal"
+        },
+        {
+            "title": "Blood Test (Hemoglobin)",
+            "result": "13.5 g/dL",
+            "threshold": " Women: 12.1–15.1 g/dL",
+            "status": "Normal"
+        },
+        {
+            "title": "Urine Test (Protein)",
+            "result": "Negative",
+            "threshold": "<20 mg/dL",
+            "status": "Normal"
+        },
+        {
+            "title": "Cardiovascular Health (ECG)",
+            "result": "Normal",
+            "threshold": "Sinus rhythm",
+            "status": "Normal"
+        },
+        {
+            "title": "Respiratory Function (FEV1)",
+            "result": "85% of predicted",
+            "threshold": ">80% of predicted value",
+            "status": "Normal"
+        },
+        {
+            "title": "Musculoskeletal Assessments",
+            "result": "Excellent strength",
+            "threshold": "Balanced and proportionate",
+            "status": "Normal"
+        },
+        {
+            "title": "Nutritional Deficiencies (Iron)",
+            "result": "110 µg/dL",
+            "threshold": " Women: 60–160 µg/dL",
+            "status": "Normal"
+        },
+        {
+            "title": "Hormonal Profiling (Testosterone)",
+            "result": "45 ng/dL",
+            "threshold": " Women: 15–70 ng/dL",
+            "status": "Normal"
+        },
+        {
+            "title": "Body Composition (BMI)",
+            "result": "21.8",
+            "threshold": "18.5–24.9 (Normal)",
+            "status": "Normal"
+        },
+        {
+            "title": "Hydration Status (Sodium)",
+            "result": "138 mmol/L",
+            "threshold": "135–145 mmol/L",
+            "status": "Normal"
+        },
+        {
+            "title": "Blood Glucose (Fasting)",
+            "result": "90 mg/dL",
+            "threshold": "70–100 mg/dL",
+            "status": "Normal"
+        },
+        {
+            "title": "Lipid Profile (Total Cholesterol)",
+            "result": "175 mg/dL",
+            "threshold": "<200 mg/dL",
+            "status": "Normal"
+        }
+    ],
+    "BiologicalPassportRecords": {
+        "name": "Sabita Toppo",
+        "age": 22,
+        "gender": "Female",
+        "sport": "Athletics",
+        "team": "Indian National Athletics Team",
+        "position": "400m Hurdles Specialist",
+        "profileImage": "https://via.placeholder.com/150",
+        "contactInfo": {
+            "phone": "+91 98765 54321",
+            "email": "sabitatoppo@example.com",
+            "address": "1234 Track Street, Sports City, India"
+        },
+        "performanceStats": {
+            "best100mTime": "N/A",
+            "best200mTime": "N/A",
+            "olympics": "Participated in 2024 Olympics",
+            "worldRecord": "None"
+        },
+        "careerAchievements": [
+            "Gold Medal, 2024 Asian Games (400m Hurdles)",
+            "Silver Medal, 2023 Commonwealth Games (400m Hurdles)",
+            "Bronze Medal, 2022 World Athletics Championships (400m Hurdles)"
+        ],
+        "bloodProfileResults": {
+            "hematocrit": 42,
+            "hemoglobin": 13.5,
+            "reticulocyte": 1.3,
+            "ferritin": 75
+        },
+        "urineProfileResults": {
+            "teRatio": 0.7,
+            "syntheticHormones": 0.3
+        },
+        "hormonalMarkersResults": {
+            "testosterone": 40,
+            "growthHormone": 3.8,
+            "cortisol": 18,
+            "thyroidHormones": 4.0
+        },
+        "thresholdLimits": {
+            "hematocrit": 45,
+            "hemoglobin": 15,
+            "reticulocyte": 1.5,
+            "ferritin": 100,
+            "teRatio": 1,
+            "syntheticHormones": 0.5,
+            "testosterone": 10,
+            "growthHormone": 5,
+            "cortisol": 20,
+            "thyroidHormones": 4.5
+        }
+    },
+    "TravelHistory": [
+        {
+            "Date": "2024-10-10",
+            "Destination": "Jakarta, Indonesia",
+            "Purpose": "Asian Games",
+            "Duration": "14 days",
+            "VisaDetails": "Indonesian Tourist Visa (Valid: 2024-01-01 to 2024-12-31)",
+            "TicketCost": "₹95,000",
+            "AccompanyingPersons": "Coach: P.T. Usha",
+            "Weather": "Humid (28°C)",
+            "RiskScore": "1",
+            "Coordinates": [
+                -6.2088,
+                106.8456
+            ],
+            "Flagged": false
+        },
+        {
+            "Date": "2024-08-15",
+            "Destination": "Paris, France",
+            "Purpose": "Olympics",
+            "Duration": "20 days",
+            "VisaDetails": "Schengen Tourist Visa (Valid: 2024-01-01 to 2024-12-31)",
+            "TicketCost": "₹1,20,000",
+            "AccompanyingPersons": "Team: Indian Athletics Squad",
+            "Weather": "Sunny (24°C)",
+            "RiskScore": "1",
+            "Coordinates": [
+                48.8566,
+                2.3522
+            ],
+            "Flagged": false
+        },
+        {
+            "Date": "2024-06-05",
+            "Destination": "Doha, Qatar",
+            "Purpose": "Diamond League",
+            "Duration": "10 days",
+            "VisaDetails": "Qatar Tourist Visa (Valid: 2024-01-01 to 2024-12-31)",
+            "TicketCost": "₹80,000",
+            "AccompanyingPersons": "Assistant: Jane Doe",
+            "Weather": "Hot (35°C)",
+            "RiskScore": "2",
+            "Coordinates": [
+                25.276987,
+                51.520008
+            ],
+            "Flagged": false
+        }
+    ],
+    "FinancialTransactions": {
+        "TransactionHistory": [
+            {
+                "id": 1,
+                "type": "Payment",
+                "amount": 10000,
+                "date": "2024-08-20",
+                "recipient": "Training Facility",
+                "category": "Training",
+                "suspicious": false
+            },
+            {
+                "id": 2,
+                "type": "Transfer",
+                "amount": 25000,
+                "date": "2024-09-10",
+                "recipient": "Athletics Federation of India",
+                "category": "Event Fees",
+                "suspicious": false
+            },
+            {
+                "id": 3,
+                "type": "Payment",
+                "amount": 12000,
+                "date": "2024-09-30",
+                "recipient": "Personal Trainer",
+                "category": "Training",
+                "suspicious": false
+            },
+            {
+                "id": 4,
+                "type": "Refund",
+                "amount": 6000,
+                "date": "2024-10-15",
+                "recipient": "Sponsor Z",
+                "category": "Refund",
+                "suspicious": false
+            },
+            {
+                "id": 5,
+                "type": "Transfer",
+                "amount": 30000,
+                "date": "2024-11-05",
+                "recipient": "Cryptocurrency Wallet",
+                "category": "Misc",
+                "suspicious": true
+            }
+        ],
+        "CryptocurrencyTransactions": [
+            {
+                "id": 1,
+                "amount": 7000,
+                "date": "2024-07-15",
+                "walletAddressFrom": "0x12345...",
+                "walletAddressTo": "0x67890...",
+                "suspicious": false
+            },
+            {
+                "id": 2,
+                "amount": 30000,
+                "date": "2024-09-01",
+                "walletAddressFrom": "0x12345...",
+                "walletAddressTo": "0xABCDE...",
+                "suspicious": true
+            },
+            {
+                "id": 3,
+                "amount": 15000,
+                "date": "2024-09-25",
+                "walletAddressFrom": "0x12345...",
+                "walletAddressTo": "0xFGHIJ...",
+                "suspicious": false
+            }
+        ]
+    },
+    "AccessToSocialMedia": {
+        "InstagramID": "@sabitatoppo",
+        "Followers": "90K",
+        "Posts": "180+",
+        "EngagementRate": "N/A",
+        "TwitterID": "@SabitaAthlete",
+        "TwitterFollowers": "85K",
+        "TwitterPosts": "450+",
+        "TwitterEngagementRate": "N/A",
+        "FacebookID": "SabitaToppoOfficial",
+        "FacebookFollowers": "45K",
+        "FacebookPosts": "N/A",
+        "FacebookEngagementRate": "N/A",
+        "LinkedInID": "N/A",
+        "LinkedInFollowers": "N/A",
+        "LinkedInPosts": "N/A",
+        "LinkedInEngagementRate": "N/A",
+        "YouTubeID": "N/A",
+        "YouTubeFollowers": "N/A",
+        "YouTubePosts": "N/A",
+        "YouTubeEngagementRate": "N/A"
+    },
+    "Performance": {
+        "name": "Sabita Toppo",
+        "sportHistory": [
+            {
+                "game": "Asian Games 2024",
+                "score": "N/A",
+                "date": "2024-10-15",
+                "result": "Gold Medal"
+            },
+            {
+                "game": "Commonwealth Games 2023",
+                "score": "N/A",
+                "date": "2023-09-20",
+                "result": "Silver Medal"
+            },
+            {
+                "game": "World Athletics Championships 2022",
+                "score": "N/A",
+                "date": "2022-07-25",
+                "result": "Bronze Medal"
+            },
+            {
+                "game": "National Athletics Championships 2021",
+                "score": "N/A",
+                "date": "2021-06-15",
+                "result": "Gold Medal"
+            }
+        ],
+    "recentTrainingData": [
+    {
+        "trainingDate": "2024-01-10",
+        "hoursTrained": 4
+    },
+    {
+        "trainingDate": "2023-12-30",
+        "hoursTrained": 5
+    },
+    {
+        "trainingDate": "2023-12-15",
+        "hoursTrained": 3
+    }
+]
+
+}
+},{
+    "athlete_id": "674edff9dfec2397c9cf68db9",
+    "AthleteName": "Aditi Swami",
+    "MedicalTestReports": [
+      {
+        "title": "Vital Signs",
+        "result": "118/76 mm Hg",
+        "threshold": "120/80 mm Hg",
+        "status": "Normal"
+      },
+      {
+        "title": "Blood Test (Hemoglobin)",
+        "result": "13.5 g/dL",
+        "threshold": "Women: 12.1–15.1 g/dL",
+        "status": "Normal"
+      },
+      {
+        "title": "Urine Test (Protein)",
+        "result": "Negative",
+        "threshold": "<20 mg/dL",
+        "status": "Normal"
+      },
+      {
+        "title": "Cardiovascular Health (ECG)",
+        "result": "Normal",
+        "threshold": "Sinus rhythm",
+        "status": "Normal"
+      },
+      {
+        "title": "Respiratory Function (FEV1)",
+        "result": "84% of predicted",
+        "threshold": ">80% of predicted value",
+        "status": "Normal"
+      },
+      {
+        "title": "Musculoskeletal Assessments",
+        "result": "Excellent strength",
+        "threshold": "Balanced and proportionate",
+        "status": "Normal"
+      },
+      {
+        "title": "Nutritional Deficiencies (Iron)",
+        "result": "125 µg/dL",
+        "threshold": " Women: 60–160 µg/dL",
+        "status": "Normal"
+      },
+      {
+        "title": "Hormonal Profiling (Testosterone)",
+        "result": "45 ng/dL",
+        "threshold": " Women: 15–70 ng/dL",
+        "status": "Normal"
+      },
+      {
+        "title": "Body Composition (BMI)",
+        "result": "21.8",
+        "threshold": "18.5–24.9 (Normal)",
+        "status": "Normal"
+      },
+      {
+        "title": "Hydration Status (Sodium)",
+        "result": "142 mmol/L",
+        "threshold": "135–145 mmol/L",
+        "status": "Normal"
+      },
+      {
+        "title": "Blood Glucose (Fasting)",
+        "result": "90 mg/dL",
+        "threshold": "70–100 mg/dL",
+        "status": "Normal"
+      },
+      {
+        "title": "Lipid Profile (Total Cholesterol)",
+        "result": "180 mg/dL",
+        "threshold": "<200 mg/dL",
+        "status": "Normal"
+      }
+    ],
+    "BiologicalPassportRecords": {
+      "name": "Aditi Swami",
+      "age": 17,
+      "gender": "Female",
+      "sport": "Archery",
+      "team": "Indian National Archery Team",
+      "position": "Archer",
+      "profileImage": "https://via.placeholder.com/150",
+      "contactInfo": {
+        "phone": "+91 98765 54321",
+        "email": "aditiswami@example.com",
+        "address": "1234 Archer Street, Sports City, India"
+      },
+      "performanceStats": {
+        "best100mTime": "N/A",
+        "best200mTime": "N/A",
+        "olympics": "N/A",
+        "worldRecord": "None"
+      },
+      "careerAchievements": [
+        "Gold Medal, 2023 World Archery Youth Championships",
+        "World Record Holder in Women's Youth Compound Archery",
+        "Bronze Medal, 2024 Asian Games"
+      ],
+      "bloodProfileResults": {
+        "hematocrit": 44,
+        "hemoglobin": 13.5,
+        "reticulocyte": 1.3,
+        "ferritin": 88
+      },
+      "urineProfileResults": {
+        "teRatio": 0.7,
+        "syntheticHormones": 0.3
+      },
+      "hormonalMarkersResults": {
+        "testosterone": 48,
+        "growthHormone": 3.9,
+        "cortisol": 18,
+        "thyroidHormones": 4.0
+      },
+      "thresholdLimits": {
+        "hematocrit": 45,
+        "hemoglobin": 15,
+        "reticulocyte": 1.5,
+        "ferritin": 100,
+        "teRatio": 1,
+        "syntheticHormones": 0.5,
+        "testosterone": 70,
+        "growthHormone": 5,
+        "cortisol": 20,
+        "thyroidHormones": 4.5
+      }
+    },
+    "TravelHistory": [
+      {
+        "Date": "2024-09-10",
+        "Destination": "Paris, France",
+        "Purpose": "Archery Championship",
+        "Duration": "14 days",
+        "VisaDetails": "Schengen Tourist Visa (Valid: 2024-01-01 to 2024-12-31)",
+        "TicketCost": "₹85,000",
+        "AccompanyingPersons": "Coach: Deepika Kumari",
+        "Weather": "Cloudy (18°C)",
+        "RiskScore": "1",
+        "Coordinates": [
+          48.8566,
+          2.3522
+        ],
+        "Flagged": false
+      },
+      {
+        "Date": "2024-08-15",
+        "Destination": "Tokyo, Japan",
+        "Purpose": "Training Camp",
+        "Duration": "10 days",
+        "VisaDetails": "Japanese Tourist Visa (Valid: 2024-06-01 to 2024-12-31)",
+        "TicketCost": "₹1,20,000",
+        "AccompanyingPersons": "Team: Indian Archery Squad",
+        "Weather": "Humid (30°C)",
+        "RiskScore": "2",
+        "Coordinates": [
+          35.6895,
+          139.6917
+        ],
+        "Flagged": false
+      },
+      {
+        "Date": "2024-06-20",
+        "Destination": "Seoul, South Korea",
+        "Purpose": "Asian Games",
+        "Duration": "12 days",
+        "VisaDetails": "South Korea Tourist Visa (Valid: 2024-01-01 to 2024-12-31)",
+        "TicketCost": "₹90,000",
+        "AccompanyingPersons": "Assistant: Anjali Kumari",
+        "Weather": "Rainy (22°C)",
+        "RiskScore": "1",
+        "Coordinates": [
+          37.5665,
+          126.978
+        ],
+        "Flagged": false
+      }
+    ],
+    "FinancialTransactions": {
+      "TransactionHistory": [
+        {
+          "id": 1,
+          "type": "Payment",
+          "amount": 7000,
+          "date": "2024-08-12",
+          "recipient": "Equipment Supplier A",
+          "category": "Archery Equipment",
+          "suspicious": false
+        },
+        {
+          "id": 2,
+          "type": "Transfer",
+          "amount": 20000,
+          "date": "2024-09-05",
+          "recipient": "World Archery Federation",
+          "category": "Tournament Fees",
+          "suspicious": false
+        },
+        {
+          "id": 3,
+          "type": "Payment",
+          "amount": 15000,
+          "date": "2024-09-20",
+          "recipient": "Coach Deepika Kumari",
+          "category": "Training",
+          "suspicious": false
+        },
+        {
+          "id": 4,
+          "type": "Refund",
+          "amount": 6000,
+          "date": "2024-10-01",
+          "recipient": "Sponsor Z",
+          "category": "Refund",
+          "suspicious": false
+        },
+        {
+          "id": 5,
+          "type": "Transfer",
+          "amount": 25000,
+          "date": "2024-10-15",
+          "recipient": "Cryptocurrency Wallet",
+          "category": "Misc",
+          "suspicious": true
+        }
+      ],
+      "CryptocurrencyTransactions": [
+        {
+          "id": 1,
+          "amount": 10000,
+          "date": "2024-08-25",
+          "walletAddressFrom": "0xX1234...",
+          "walletAddressTo": "0xY5678...",
+          "suspicious": false
+        },
+        {
+          "id": 2,
+          "amount": 25000,
+          "date": "2024-09-15",
+          "walletAddressFrom": "0xX1234...",
+          "walletAddressTo": "0xZ9876...",
+          "suspicious": true
+        },
+        {
+          "id": 3,
+          "amount": 15000,
+          "date": "2024-10-05",
+          "walletAddressFrom": "0xX1234...",
+          "walletAddressTo": "0xW2345...",
+          "suspicious": false
+        }
+      ]
+    },
+    "AccessToSocialMedia": {
+      "InstagramID": "@aditiswami",
+      "Followers": "85K",
+      "Posts": "120+",
+      "EngagementRate": "N/A",
+      "TwitterID": "@AditiSwamiArchery",
+      "TwitterFollowers": "50K",
+      "TwitterPosts": "300+",
+      "TwitterEngagementRate": "N/A",
+      "FacebookID": "AditiSwamiOfficial",
+      "FacebookFollowers": "40K",
+      "FacebookPosts": "N/A",
+      "FacebookEngagementRate": "N/A",
+      "LinkedInID": "N/A",
+      "LinkedInFollowers": "N/A",
+      "LinkedInPosts": "N/A",
+      "LinkedInEngagementRate": "N/A",
+      "YouTubeID": "N/A",
+      "YouTubeFollowers": "N/A",
+      "YouTubePosts": "N/A",
+      "YouTubeEngagementRate": "N/A"
+    },
+    "Performance": {
+      "name": "Aditi Swami",
+      "sportHistory": [
+        {
+          "game": "World Archery Youth Championships 2023",
+          "score": "N/A",
+          "date": "2023-07-15",
+          "result": "Gold Medal"
+        },
+        {
+          "game": "Asian Games 2024",
+          "score": "N/A",
+          "date": "2024-09-25",
+          "result": "Bronze Medal"
+        },
+        {
+          "game": "National Archery Championships 2022",
+          "score": "N/A",
+          "date": "2022-12-10",
+          "result": "Silver Medal"
+        },
+        {
+          "game": "South Asian Games 2021",
+          "score": "N/A",
+          "date": "2021-11-05",
+          "result": "Gold Medal"
+        }
+      ],
+      "recentTrainingData": [
+        {
+          "trainingDate": "2024-03-15",
+          "hoursTrained": 5
+        },
+        {
+          "trainingDate": "2024-02-20",
+          "hoursTrained": 6
+        },
+        {
+          "trainingDate": "2024-01-10",
+          "hoursTrained": 4
+        }
+      ]
+    }
+  },{
+    "athlete_id": "674edff9dfec2397c9cf68dba",
+    "AthleteName": "Shreyanka Patil",
+    "MedicalTestReports": [
+       {
+          "title": "Vital Signs",
+          "result": "120/80 mm Hg",
+          "threshold": "120/80 mm Hg",
+          "status": "Normal"
+       },
+       {
+          "title": "Blood Test (Hemoglobin)",
+          "result": "14 g/dL",
+          "threshold": " Women: 12.1–15.1 g/dL",
+          "status": "Normal"
+       },
+       {
+          "title": "Urine Test (Protein)",
+          "result": "Negative",
+          "threshold": "<20 mg/dL",
+          "status": "Normal"
+       },
+       {
+          "title": "Cardiovascular Health (ECG)",
+          "result": "Normal",
+          "threshold": "Sinus rhythm",
+          "status": "Normal"
+       },
+       {
+          "title": "Respiratory Function (FEV1)",
+          "result": "75% of predicted",
+          "threshold": ">80% of predicted value",
+          "status": "Abnormal"
+       },
+       {
+          "title": "Musculoskeletal Assessments",
+          "result": "Normal strength",
+          "threshold": "Balanced and proportionate",
+          "status": "Normal"
+       },
+       {
+          "title": "Nutritional Deficiencies (Iron)",
+          "result": "100 µg/dL",
+          "threshold": " Women: 60–160 µg/dL",
+          "status": "Normal"
+       },
+       {
+          "title": "Hormonal Profiling (Testosterone)",
+          "result": "500 ng/dL",
+          "threshold": " Women: 15–70 ng/dL",
+          "status": "Normal"
+       },
+       {
+          "title": "Body Composition (BMI)",
+          "result": "22.5",
+          "threshold": "18.5–24.9 (Normal)",
+          "status": "Normal"
+       },
+       {
+          "title": "Hydration Status (Sodium)",
+          "result": "145 mmol/L",
+          "threshold": "135–145 mmol/L",
+          "status": "Normal"
+       },
+       {
+          "title": "Blood Glucose (Fasting)",
+          "result": "110 mg/dL",
+          "threshold": "70–100 mg/dL",
+          "status": "Abnormal"
+       },
+       {
+          "title": "Lipid Profile (Total Cholesterol)",
+          "result": "180 mg/dL",
+          "threshold": "<200 mg/dL",
+          "status": "Normal"
+       }
+    ],
+    "BiologicalPassportRecords": {
+       "name": "Shreyanka Patil",
+       "age": 26,
+       "gender": "Female",
+       "sport": "Cricket",
+       "team": "National Team",
+       "position": "Athlete",
+       "profileImage": "https://via.placeholder.com/150",
+       "contactInfo": {
+          "phone": "+91 98765 43210",
+          "email": "shreyankapatil@example.com",
+          "address": "123 Cricket Avenue, Sports City, India"
+       },
+       "performanceStats": {
+          "best100mTime": "12.5s",
+          "best200mTime": "25.2s",
+          "olympics": "2021",
+          "worldRecord": "N/A"
+       },
+       "careerAchievements": [
+          "Gold Medal, 2022 Commonwealth Games",
+          "World Cup Champion 2023",
+          "Asia Cup Winner 2019"
+       ],
+       "bloodProfileResults": {
+          "hematocrit": 44,
+          "hemoglobin": 15,
+          "reticulocyte": 1.5,
+          "ferritin": 110
+       },
+       "urineProfileResults": {
+          "teRatio": 0.8,
+          "syntheticHormones": 0.2
+       },
+       "hormonalMarkersResults": {
+          "testosterone": 8,
+          "growthHormone": 6,
+          "cortisol": 18,
+          "thyroidHormones": 4.5
+       },
+       "thresholdLimits": {
+          "hematocrit": 45,
+          "hemoglobin": 15,
+          "reticulocyte": 1.5,
+          "ferritin": 100,
+          "teRatio": 1,
+          "syntheticHormones": 0.5,
+          "testosterone": 10,
+          "growthHormone": 5,
+          "cortisol": 20,
+          "thyroidHormones": 4.5
+       }
+    },
+    "TravelHistory": [
+       {
+          "Date": "2024-11-15",
+          "Destination": "Paris, France",
+          "Purpose": "Conference",
+          "Duration": "3 days",
+          "VisaDetails": "Schengen Visa (Valid: 2024-01-01 to 2024-12-31)",
+          "TicketCost": "₹41,500",
+          "AccompanyingPersons": "Assistant: Jane Smith",
+          "Weather": "Cloudy (15°C)",
+          "RiskScore": "2",
+          "Coordinates": [
+             55.7558,
+             37.6173
+          ],
+          "Flagged": true
+       },
+       {
+          "Date": "2024-08-10",
+          "Destination": "London, UK",
+          "Purpose": "World Cup Tournament",
+          "Duration": "10 days",
+          "VisaDetails": "UK Standard Visitor Visa (Valid: 2024-07-15 to 2024-09-15)",
+          "TicketCost": "₹85,000",
+          "AccompanyingPersons": "Team: Indian Cricket Squad",
+          "Weather": "Partly Cloudy (20°C)",
+          "RiskScore": "2",
+          "Coordinates": [
+             55.7558,
+             37.6173
+          ],
+          "Flagged": false
+       },
+       {
+          "Date": "2024-06-05",
+          "Destination": "Sydney, Australia",
+          "Purpose": "Cricket Series",
+          "Duration": "7 days",
+          "VisaDetails": "Australian Tourist Visa (Valid: 2024-06-01 to 2024-12-31)",
+          "TicketCost": "₹75,000",
+          "AccompanyingPersons": "Coach: Rahul Dravid",
+          "Weather": "Mild (18°C)",
+          "RiskScore": "3",
+          "Coordinates": [
+             55.7558,
+             37.6173
+          ],
+          "Flagged": true
+       }
+    ],
+    "FinancialTransactions": {
+       "TransactionHistory": [
+          {
+             "id": 1,
+             "type": "Payment",
+             "amount": 5000,
+             "date": "2024-10-15",
+             "recipient": "Supplier A",
+             "category": "Training",
+             "suspicious": false
+          },
+          {
+             "id": 2,
+             "type": "Transfer",
+             "amount": 10000,
+             "date": "2024-10-20",
+             "recipient": "Overseas Supplier",
+             "category": "Medical",
+             "suspicious": true
+          },
+          {
+             "id": 3,
+             "type": "Payment",
+             "amount": 7500,
+             "date": "2024-10-25",
+             "recipient": "Trainer X",
+             "category": "Sponsorship",
+             "suspicious": false
+          },
+          {
+             "id": 4,
+             "type": "Refund",
+             "amount": 4000,
+             "date": "2024-11-02",
+             "recipient": "Sponsor Z",
+             "category": "Refund",
+             "suspicious": false
+          },
+          {
+             "id": 5,
+             "type": "Transfer",
+             "amount": 25000,
+             "date": "2024-11-10",
+             "recipient": "Cryptocurrency Wallet",
+             "category": "Misc",
+             "suspicious": true
+          }
+       ],
+       "CryptocurrencyTransactions": [
+          {
+             "id": 1,
+             "amount": 5000,
+             "date": "2024-10-12",
+             "walletAddressFrom": "0xA2345...",
+             "walletAddressTo": "0xB6789...",
+             "suspicious": false
+          },
+          {
+             "id": 2,
+             "amount": 10000,
+             "date": "2024-10-18",
+             "walletAddressFrom": "0xA2345...",
+             "walletAddressTo": "0xC7890...",
+             "suspicious": true
+          },
+          {
+             "id": 3,
+             "amount": 15000,
+             "date": "2024-10-22",
+             "walletAddressFrom": "0xA2345...",
+             "walletAddressTo": "0xD1234...",
+             "suspicious": false
+          }
+       ]
+    },
+    "AccessToSocialMedia": {
+       "InstagramID": "@shreyankapatil45",
+       "Followers": "5.2M",
+       "Posts": "900+",
+       "EngagementRate": "N/A",
+       "TwitterID": "@Shreyanka45",
+       "TwitterFollowers": "4.3M",
+       "TwitterPosts": "2K+",
+       "TwitterEngagementRate": "N/A",
+       "FacebookID": "ShreyankaPatilOfficial",
+       "FacebookFollowers": "3.5M",
+       "FacebookPosts": "N/A",
+       "FacebookEngagementRate": "N/A",
+       "LinkedInID": "N/A",
+       "LinkedInFollowers": "N/A",
+       "LinkedInPosts": "N/A",
+       "LinkedInEngagementRate": "N/A",
+       "YouTubeID": "N/A",
+       "YouTubeFollowers": "N/A",
+       "YouTubePosts": "N/A",
+       "YouTubeEngagementRate": "N/A"
+    },
+    "Performance": {
+   "name": "Shreyanka Patil",
+   "sportHistory": [
+     {
+       "game": "Olympics 2021",
+       "score": 91.02,
+       "date": "2021-07-23",
+       "result": "Silver Medal"
+     },
+     {
+       "game": "World Championships 2023",
+       "score": 92.45,
+       "date": "2023-08-12",
+       "result": "Gold Medal"
+     },
+     {
+       "game": "Asian Games 2018",
+       "score": 89.67,
+       "date": "2018-08-24",
+       "result": "Gold Medal"
+     },
+     {
+       "game": "Diamond League 2024",
+       "score": 93.5,
+       "date": "2024-06-01",
+       "result": "Win"
+     }
+   ],
+   "recentTrainingData": [
+     {
+       "trainingDate": "2024-02-10",
+       "hoursTrained": 6
+     },
+     {
+       "trainingDate": "2023-12-20",
+       "hoursTrained": 7
+     },
+     {
+       "trainingDate": "2023-12-05",
+       "hoursTrained": 5
+     }
+   ]
+ }
+}
+  
+]

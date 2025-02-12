@@ -1,0 +1,166 @@
+<!--<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Athlete Doping Analysis</title>
+</head>
+<body>
+    <h1>Athlete Doping Analysis</h1>
+    <form action="/predict" method="POST">
+        <label for="athlete_name">Enter Athlete Name:</label>
+        <input type="text" id="athlete_name" name="athlete_name" required>
+        <button type="submit">Analyze</button>
+    </form>
+    
+    
+
+    {% if prediction %}
+        <h2>Analysis for {{ athlete_name }}</h2>
+        <p><strong>Prediction:</strong> {{ prediction }}</p>
+        <h3>Details:</h3>
+        <ul>
+            <li>Abnormal Medical Tests: {{ analysis.abnormal_tests }}</li>
+            <li>Suspicious Transactions: {{ analysis.suspicious_transactions }}</li>
+            <li>Flagged Travel History: {{ analysis.flagged_travel }}</li>
+            <li>Biomarker Flags: {{ analysis.biomarker_flags }}</li>
+        </ul>
+        <h3>Biological Marker Analysis:</h3>
+        <ul>
+            <li>Blood Profile: {{ analysis.biological_markers.bloodProfileResults }}</li>
+            <li>Urine Profile: {{ analysis.biological_markers.urineProfileResults }}</li>
+            <li>Hormonal Markers: {{ analysis.biological_markers.hormonalMarkersResults }}</li>
+        </ul>
+        <h3>Thresholds:</h3>
+        <pre>{{ analysis.thresholds }}</pre>
+    {% endif %}
+</body>
+</html>-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Athlete Test</title>
+    <style>
+        /* Styling the header */
+        .header {
+            background-color: #003366; /* Navy blue background */
+            color: white; /* White text */
+            padding: 10px 20px;
+            display: flex;
+            align-items: center;
+            font-family: Arial, sans-serif;
+        }
+
+        .header img {
+            height: 40px; /* Adjust height for the logo */
+            margin-right: 10px;
+        }
+
+        .header h1 {
+            font-size: 20px;
+            margin: 0;
+        }
+        h2 {
+            color: #003366;
+        }
+
+        /* General body styling */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5; /* Light gray background */
+        }
+
+        .content {
+            padding: 20px;
+        }
+
+        form {
+            margin-top: 20px;
+        }
+        
+        label, input, button {
+            display: block;
+            margin-bottom: 15px;
+            font-size: 15px;
+        }
+        label
+        {
+           
+            font-size:20px;
+        }
+
+        input{
+            padding: 10px;
+            border: 2px solid #ccc;
+            border-radius: 10px;
+            width: 400px;
+        }
+
+        button {
+            padding: 8px;
+            border: 2px solid #ccc;
+            border-radius: 10px;
+            font-size: 10px;
+            background-color: #003366;
+            color: white;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #002244; /* Darker navy on hover */
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img
+  src="https://upload.wikimedia.org/wikipedia/commons/2/29/Ministry_of_Youth_Affairs_and_Sports.svg"
+  alt="Ministry Logo"
+  style="filter: invert(1) contrast(2);"
+       />
+
+        <h1>Athlete Test</h1>
+    </div>
+    <div class="content">
+        <h2>Athlete Doping Analysis</h2>
+        <form action="/predict" method="POST">
+            <table>
+            <tr>
+            <td><label for="athlete_name">Enter Athlete Name:</label></td>
+            <td></td>
+            </tr colspan="2">
+            <td><input type="text" id="athlete_name" name="athlete_name" required><td>
+            <tr>
+            <tr>
+            <td><button type="submit">Analyze</button><td>
+            <td></td>
+            </tr>
+        </form>
+
+        {% if prediction %}
+            <h2>Analysis for {{ athlete_name }}</h2>
+            <p><strong>Prediction:</strong> {{ prediction }}</p>
+            <h3>Details:</h3>
+            <ul>
+                <li>Abnormal Medical Tests: {{ analysis.abnormal_tests }}</li>
+                <li>Suspicious Transactions: {{ analysis.suspicious_transactions }}</li>
+                <li>Flagged Travel History: {{ analysis.flagged_travel }}</li>
+                <li>Biomarker Flags: {{ analysis.biomarker_flags }}</li>
+            </ul>
+            <h3>Biological Marker Analysis:</h3>
+            <ul>
+                <li>Blood Profile: {{ analysis.biological_markers.bloodProfileResults }}</li>
+                <li>Urine Profile: {{ analysis.biological_markers.urineProfileResults }}</li>
+                <li>Hormonal Markers: {{ analysis.biological_markers.hormonalMarkersResults }}</li>
+            </ul>
+            <h3>Thresholds:</h3>
+            <pre>{{ analysis.thresholds }}</pre>
+        {% endif %}
+    </div>
+</body>
+</html>
+
